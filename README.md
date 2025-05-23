@@ -1,4 +1,4 @@
-I am @Celestopia, a 20-year-old Chinese student at Tsinghua University. <br>
+I am @Celestopia, a third-year undergraduate student at Tsinghua University. <br>
 I hope to enhance my knowledge of computer science on Github!
 
 <!---
