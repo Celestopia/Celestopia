@@ -1,5 +1,4 @@
-I am @Celestopia, a third-year undergraduate student at Tsinghua University. <br>
-I hope to enhance my knowledge of computer science on Github!
+I am @Celestopia, a fourth-year undergraduate student at Tsinghua University.
 
 <!---
 Celestopia/Celestopia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
